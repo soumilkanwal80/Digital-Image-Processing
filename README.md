@@ -27,7 +27,7 @@ Canny Edge Detector
 # MidTerm
 Various excercies on lab 1 - 3
 
-#Project 
+# Project 
 Implementation of "Adaptive multiscale retinex for image contrast enhancement"
 ```
 @inproceedings{lee2013amsr,
