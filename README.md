@@ -12,22 +12,22 @@ Custom functions for calculating -
 1. Red Eye Removal
 2. Connected Components
 
-# Lab 3
+## Lab 3
 Filtering in spatial domain, edge detection using filters, image sharpening.
 
-# Lab 4
+## Lab 4
 Implementation of filters in freqeuncy domain using FFT
 
-# Lab 5
+## Lab 5
 RLE and Huffman Coding
 
-# End Term
+## End Term
 Canny Edge Detector
 
-# MidTerm
+## MidTerm
 Various excercies on lab 1 - 3
 
-# Project 
+## Project 
 Implementation of "Adaptive multiscale retinex for image contrast enhancement"
 ```
 @inproceedings{lee2013amsr,
