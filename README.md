@@ -1,14 +1,14 @@
 # Digital-Image-Processing
 Repository containing assignments and final project for course CS517 - Digital Image Processing at IIT Ropar Semester-5, 2019 - 2020
 
-# Lab 1
+## Lab 1
 Custom functions for calculating - 
 1. CDF 
 2. PDF
 3. Log Transform
 4. Gamma Transform
 
-# Lab 2
+## Lab 2
 1. Red Eye Removal
 2. Connected Components
 
